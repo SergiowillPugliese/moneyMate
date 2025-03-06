@@ -1,0 +1,14 @@
+ion-menu{
+    --border : 1px solid var(--ion-color-secondary)
+  }
+  
+  .border-bottom{
+    border-bottom: .5px solid var(--ion-color-medium);
+  }
+  
+  ion-item{
+    --detail-icon-color : var(--ion-color-secondary);
+    --background-hover : var(--ion-color-primary);
+    --background-hover-opacity : 0.7;
+  }
+  
